@@ -119,4 +119,5 @@ def main():
     print("- En Python puro (listas), las diferencias suelen ser pequeñas; lo importante es la *coherencia* del patrón de acceso.")
 
 if __name__ == "__main__":
+
     main()
