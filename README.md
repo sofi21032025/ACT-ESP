@@ -10,3 +10,11 @@ imprimir_tabla()
 •	Imprime la tabla de ventas
 
 JAVA
+insertarVenta(String mes, String depto, int monto)
+•	Agrega una venta a la matriz
+buscarVenta(String mes, String depto)
+•	Nos da el monto de una venta segun su mes y departamento determinado
+eliminarVenta(String mes, String depto)
+•	Elimina una venta segun el mes y departamento determinado
+imprimirTabla()
+•	Muestra la tabla de ventas
